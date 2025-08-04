@@ -1,0 +1,7 @@
+# Nmap 7.95 scan initiated Mon Aug  4 20:45:58 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan-results/nmap_scan.txt 192.168.0.108/24
+Nmap scan report for 192.168.0.108
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 192.168.0.108 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 20:46:22 2025 -- 256 IP addresses (1 host up) scanned in 24.11 seconds

@@ -6,4 +6,4 @@ network exposure.
 🛠 Tools Used
 - [Nmap](https://nmap.org/)
 
-  Output after execution is stored in the .text file in the repository
+  Output after execution is stored in the .text file in this repository
